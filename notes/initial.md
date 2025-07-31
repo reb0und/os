@@ -55,3 +55,6 @@
 - DE is a graphical shell providing the functional environment for all lower-level features
 - WM is responsible for window organization of running programs, resizing/closing gadgets, window borders, and scrollbars
 - Subsystem that does drawing of control elements, rendering documents on screen, etc
+
+## Plans
+- 
