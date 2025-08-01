@@ -56,5 +56,25 @@
 - WM is responsible for window organization of running programs, resizing/closing gadgets, window borders, and scrollbars
 - Subsystem that does drawing of control elements, rendering documents on screen, etc
 
-## Plans
+## Required Knowledge
+- Assembly
+- UNIX experience
+- Should review [code management practices](https://wiki.osdev.org/Code_Management)
+
+## Common Mistakes
+- Kernel Image
+    - Booting Problems
+        - Reason for booting problems is frequently that too few sectors are fetched from disk, should adjust the amount of sectors fetched from disk or have the  loader/second stage loader parse the file system
+
+## TODOs
+- Selecting a DE
+    - Need to select an assembler for converting assembly language to machine code
+- Cross-compiler is required
+- Organize plans
+- MacOS
+    - Need a loopback device for MacOS
+- [Testing](https://wiki.osdev.org/Testing)
+- Protecting Code
+    - Should review JJ for VCS
+- Should review [boot sequence](https://wiki.osdev.org/Boot_Sequence) and kernel design
 - 
