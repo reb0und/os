@@ -77,4 +77,3 @@
 - Protecting Code
     - Should review JJ for VCS
 - Should review [boot sequence](https://wiki.osdev.org/Boot_Sequence) and kernel design
-- 
